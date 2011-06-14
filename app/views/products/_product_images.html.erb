@@ -1,0 +1,6 @@
+<div id="main-image">
+  <%= render :partial => 'fancybox_image', :object => @product.images.first, :locals => {:size => :product} -%>
+</div>
+<div id="thumbnails">
+  <%= render 'thumbnails', :product => @product %>
+</div>
