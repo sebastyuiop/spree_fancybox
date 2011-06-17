@@ -1,5 +1,5 @@
 Spree Fancybox
---------------
+==============
 
 Simple extension for Spree that gives fancybox functionality on the product pages. No administration configuration needed at this point.
 
